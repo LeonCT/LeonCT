@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chen Tao!
+# 👋 Hi,
 
 Welcome to my GitHub profile!
 
